@@ -18,7 +18,7 @@ model = genanki.Model(
 ---
 
 ### 2. Cloze Deletion Cards
-s
+
 - Fill-in-the-blank style cards where parts of a sentence are hidden.
 
 ```python
