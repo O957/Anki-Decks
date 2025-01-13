@@ -1,3 +1,7 @@
 UNDERSTANDING ANALYSIS
 
 python3 ./scripts/convert_md_to_anki.py "./input_decks/test_deck.md" "Understanding_Analysis" "./output_decks/understand_analysis.apkg"
+
+CHRONOSTRATIGRAPHY ICS
+
+python3 ./scripts/convert_md_to_anki.py "./input_decks/chronostratigraphy_ics.md" "Chronostratigraphy_ICS" "./output_decks/chronostratigraphy_ics.apkg"
