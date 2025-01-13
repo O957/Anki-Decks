@@ -22,6 +22,10 @@ import genanki
 def parse_markdown(file_path):
     with open(file_path, "r") as f:
         content = f.read()
+    content = re.sub(
+        r"\$\$(.+?)\$\$", r"[$$]\1[/$$]", content, flags=re.DOTALL
+    )
+    content = re.sub(r"\$(.+?)\$", r"[$]\1[/$]", content, flags=re.DOTALL)
     # split questions and answers
     pattern = r"##\s*(.+?)\n(.+?)(?=\n##|$)"
     matches = re.findall(pattern, content, re.DOTALL)
@@ -61,10 +65,14 @@ def create_anki_deck(cards, deck_name):
     return deck
 
 
-def save_deck(deck, output_path):
+def save_deck(deck, output_path, overwrite=False):
     """
     Saves the Anki deck to an .apkg file.
     """
+    if os.path.exists(output_path) and not overwrite:
+        raise FileExistsError(
+            f"The file '{output_path}' already exists. Use --overwrite to overwrite it."
+        )
     genanki.Package(deck).write_to_file(output_path)
 
 
@@ -79,6 +87,11 @@ def main():
     parser.add_argument("md_file", help="Path to the Markdown file.")
     parser.add_argument("deck_name", help="Name of the Anki deck.")
     parser.add_argument("out_file", help="Path to save the .apkg file.")
+    parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="Overwrite the output file if it already exists.",
+    )
     args = parser.parse_args()
     if not os.path.isfile(args.md_file):
         raise FileNotFoundError(
@@ -90,7 +103,7 @@ def main():
         print(f"Created output directory: {output_dir}")
     cards = parse_markdown(args.md_file)
     anki_deck = create_anki_deck(cards, deck_name=args.deck_name)
-    save_deck(anki_deck, args.out_file)
+    save_deck(anki_deck, args.out_file, overwrite=args.overwrite)
     print(f"Deck saved to {args.out_file}")
 
 
