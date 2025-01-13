@@ -22,10 +22,8 @@ import genanki
 def parse_markdown(file_path):
     with open(file_path, "r") as f:
         content = f.read()
-    content = re.sub(
-        r"\$\$(.+?)\$\$", r"[$$]\1[/$$]", content, flags=re.DOTALL
-    )
-    content = re.sub(r"\$(.+?)\$", r"[$]\1[/$]", content, flags=re.DOTALL)
+    content = re.sub(r"\$\$(.+?)\$\$", r"\\[\1\\]", content, flags=re.DOTALL)
+    content = re.sub(r"\$(.+?)\$", r"\\(\1\\)", content, flags=re.DOTALL)
     # split questions and answers
     pattern = r"##\s*(.+?)\n(.+?)(?=\n##|$)"
     matches = re.findall(pattern, content, re.DOTALL)
