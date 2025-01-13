@@ -929,3 +929,133 @@ Frasnian, Famennian
 ## When was the Famennian Age?
 
 ~359-372 mya
+
+## What Eons are in the Precambrian?
+
+Hadean, Archean, Proterozoic
+
+## When was the Precambrian?
+
+~541-4600 mya
+
+
+
+## What Eras are in the Proterozoic Eon?
+
+Paleoproterozoic, Mesoproterozoic, Neoproterozoic
+
+## What Ages are in the Proterozoic Eon?
+
+Siderian, Rhyacian, Orosirian, Statherian, Calymmian, Ectasian, Stenian, Tonian, Cryogenian, Ediacaran
+
+## When was the Proterozoic Eon?
+
+~541-2500 mya
+
+
+
+## What Ages are in the Neoproterozoic Era?
+
+Tonian, Cryogenian, Ediacaran
+
+## When was the Neoproterozoic Era?
+
+~541-1000 mya
+
+## When was the Tonian Age?
+
+~720-1000 mya
+
+## When was the Cryogenian Age?
+
+~635-720 mya
+
+## When was the Ediacaran Age?
+
+~541-635 mya
+
+
+
+## What Ages are in the Mesoproterozoic Era?
+
+Calymmian, Ectasian, Stenian
+
+## When was the Mesoproterozoic Era?
+
+~1000-1600 mya
+
+## When was the Calymmian Age?
+
+~1400-1600 mya
+
+## When was the Ectasian Age?
+
+~1200-1400 mya
+
+## When was the Stenian Age?
+
+~1000-1200 mya
+
+
+
+## What Ages are in the Paleoproterozoic Era?
+
+Siderian, Rhyacian, Orosirian, Statherian
+
+## When was the Paleoproterozoic Era?
+
+~1600-2500 mya
+
+## When was the Siderian Age?
+
+~2300-2500 mya
+
+## When was the Rhyacian Age?
+
+~2050-2300 mya
+
+## When was the Orosirian Age?
+
+~1800-2050 mya
+
+## When was the Statherian Age?
+
+~1600-1800 mya
+
+
+
+## What Eras are in the Archean Eon?
+
+Eoarchean, Paleoarchean, Mesoarchean, Neoarchean
+
+## What Ages are in the Archean Eon?
+
+None explicitly defined in this chart
+
+## When was the Archean Eon?
+
+~2500-4000 mya
+
+
+
+## When was the Eoarchean Era?
+
+~3600-4000 mya
+
+## When was the Paleoarchean Era?
+
+~3200-3600 mya
+
+## When was the Mesoarchean Era?
+
+~2800-3200 mya
+
+## When was the Neoarchean Era?
+
+~2500-2800 mya
+
+
+
+## What is the time range for the Hadean Eon?
+
+~4000-4600 mya
