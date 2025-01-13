@@ -189,3 +189,234 @@ Greenlandian, Northgrippian, Meghalayan
 ## When was the Meghalayan Age?
 
 ~0-0.004 mya
+
+
+
+
+## What Periods are in the Mesozoic Era?
+
+Triassic, Jurassic, Cretaceous
+
+## When was the Mesozoic Era?
+
+~66-252 mya
+
+## What Epochs are in the Cretaceous Period?
+
+Lower Cretaceous, Upper Cretaceous
+
+## What Ages are in the Cretaceous Period?
+
+Berriasian, Valanginian, Hauterivian, Barremian, Aptian, Albian, Cenomanian, Turonian, Coniacian, Santonian, Campanian, Maastrichtian
+
+## When was the Cretaceous Period?
+
+~66-145 mya
+
+## What Ages are in the Upper Cretaceous Epoch?
+
+Cenomanian, Turonian, Coniacian, Santonian, Campanian, Maastrichtian
+
+## When was the Upper Cretaceous Epoch?
+
+~66-100 mya
+
+## When was the Cenomanian Age?
+
+~94-100 mya
+
+## When was the Turonian Age?
+
+~90-94 mya
+
+## When was the Coniacian Age?
+
+~86-90 mya
+
+## When was the Santonian Age?
+
+~83-86 mya
+
+## When was the Campanian Age?
+
+~72-83 mya
+
+## When was the Maastrichtian Age?
+
+~66-72 mya
+
+## What Ages are in the Lower Cretaceous Epoch?
+
+Berriasian, Valanginian, Hauterivian, Barremian, Aptian, Albian
+
+## When was the Lower Cretaceous Epoch?
+
+~100-145 mya
+
+## When was the Berriasian Age?
+
+~139-145 mya
+
+## When was the Valanginian Age?
+
+~133-139 mya
+
+## When was the Hauterivian Age?
+
+~129-133 mya
+
+## When was the Barremian Age?
+
+~125-129 mya
+
+## When was the Aptian Age?
+
+~113-125 mya
+
+## When was the Albian Age?
+
+~100-113 mya
+
+## What Epochs are in the Jurassic Period?
+
+Lower Jurassic, Middle Jurassic, Upper Jurassic
+
+## What Ages are in the Jurassic Period?
+
+Hettangian, Sinemurian, Pliensbachian, Toarcian, Aalenian, Bajocian, Bathonian, Callovian, Oxfordian, Kimmeridgian, Tithonian
+
+## When was the Jurassic Period?
+
+~145-201 mya
+
+## What Ages are in the Upper Jurassic Epoch?
+
+Oxfordian, Kimmeridgian, Tithonian
+
+## When was the Upper Jurassic Epoch?
+
+~145-157 mya
+
+## When was the Oxfordian Age?
+
+~157-163 mya
+
+## When was the Kimmeridgian Age?
+
+~152-157 mya
+
+## When was the Tithonian Age?
+
+~145-152 mya
+
+## What Ages are in the Middle Jurassic Epoch?
+
+Aalenian, Bajocian, Bathonian, Callovian
+
+## When was the Middle Jurassic Epoch?
+
+~163-174 mya
+
+## When was the Aalenian Age?
+
+~170-174 mya
+
+## When was the Bajocian Age?
+
+~168-170 mya
+
+## When was the Bathonian Age?
+
+~166-168 mya
+
+## When was the Callovian Age?
+
+~163-166 mya
+
+## What Ages are in the Lower Jurassic Epoch?
+
+Hettangian, Sinemurian, Pliensbachian, Toarcian
+
+## When was the Lower Jurassic Epoch?
+
+~174-201 mya
+
+## When was the Hettangian Age?
+
+~199-201 mya
+
+## When was the Sinemurian Age?
+
+~190-199 mya
+
+## When was the Pliensbachian Age?
+
+~182-190 mya
+
+## When was the Toarcian Age?
+
+~174-182 mya
+
+## What Epochs are in the Triassic Period?
+
+Lower Triassic, Middle Triassic, Upper Triassic
+
+## What Ages are in the Triassic Period?
+
+Induan, Olenekian, Anisian, Ladinian, Carnian, Norian, Rhaetian
+
+## When was the Triassic Period?
+
+~201-252 mya
+
+## What Ages are in the Upper Triassic Epoch?
+
+Carnian, Norian, Rhaetian
+
+## When was the Upper Triassic Epoch?
+
+~201-227 mya
+
+## When was the Carnian Age?
+
+~227-237 mya
+
+## When was the Norian Age?
+
+~208-227 mya
+
+## When was the Rhaetian Age?
+
+~201-208 mya
+
+## What Ages are in the Middle Triassic Epoch?
+
+Anisian, Ladinian
+
+## When was the Middle Triassic Epoch?
+
+~237-247 mya
+
+## When was the Anisian Age?
+
+~242-247 mya
+
+## When was the Ladinian Age?
+
+~237-242 mya
+
+## What Ages are in the Lower Triassic Epoch?
+
+Induan, Olenekian
+
+## When was the Lower Triassic Epoch?
+
+~247-252 mya
+
+## When was the Induan Age?
+
+~251-252 mya
+
+## When was the Olenekian Age?
+
+~247-251 mya
