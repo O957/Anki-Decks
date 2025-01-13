@@ -12,10 +12,14 @@ keywords = ["anki", "spaced-repetition", "human-memory", "personal"]
 [tool.poetry.dependencies]
 python = "^3.12"
 pre-commit = "^3.7.0"
+genanki = "^0.13.1"
 
 [tool.poetry.urls]
 "Repository Issues" = "https://github.com/AFg6K7h4fhy2/Anki-Decks/issues"
 "Author Homepage" = "https://github.com/AFg6K7h4fhy2"
+
+[tool.poetry.group.dev.dependencies]
+matplotlib = "^3.10.0"
 
 [build-system]
 requires = ["poetry-core"]
