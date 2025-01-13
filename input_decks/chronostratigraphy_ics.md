@@ -420,3 +420,512 @@ Induan, Olenekian
 ## When was the Olenekian Age?
 
 ~247-251 mya
+
+
+
+
+
+## What Periods are in the Paleozoic Era?
+
+Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian
+
+## When was the Paleozoic Era?
+
+~252-541 mya
+
+## What Epochs are in the Permian Period?
+
+Cisuralian, Guadalupian, Lopingian
+
+## What Ages are in the Permian Period?
+
+Asselian, Sakmarian, Artinskian, Kungurian, Roadian, Wordian, Capitanian, Wuchiapingian, Changhsingian
+
+## When was the Permian Period?
+
+~252-299 mya
+
+## What Ages are in the Cisuralian Epoch?
+
+Asselian, Sakmarian, Artinskian, Kungurian
+
+## When was the Cisuralian Epoch?
+
+~272-299 mya
+
+## When was the Asselian Age?
+
+~294-299 mya
+
+## When was the Sakmarian Age?
+
+~298-294 mya
+
+## When was the Artinskian Age?
+
+~294-283 mya
+
+## When was the Kungurian Age?
+
+~283-273 mya
+
+## What Ages are in the Guadalupian Epoch?
+
+Roadian, Wordian, Capitanian
+
+## When was the Guadalupian Epoch?
+
+~273-259 mya
+
+## When was the Roadian Age?
+
+~273-269 mya
+
+## When was the Wordian Age?
+
+~269-265 mya
+
+## When was the Capitanian Age?
+
+~265-259 mya
+
+## What Ages are in the Lopingian Epoch?
+
+Wuchiapingian, Changhsingian
+
+## When was the Lopingian Epoch?
+
+~259-252 mya
+
+## When was the Wuchiapingian Age?
+
+~259-254 mya
+
+## When was the Changhsingian Age?
+
+~254-252 mya
+
+## What Epochs are in the Carboniferous Period?
+
+Mississippian, Pennsylvanian
+
+## What Ages are in the Carboniferous Period?
+
+Tournaisian, Visean, Serpukhovian, Bashkirian, Moscovian, Kasimovian, Gzhelian
+
+## When was the Carboniferous Period?
+
+~299-358 mya
+
+## What Epochs are in the Mississippian Epoch?
+
+Upper Mississippian Epoch, Middle Mississippian Epoch, Lower Mississippian Epoch
+
+## What Ages are in the Upper Mississippian Epoch?
+
+Serpukhovian
+
+## When was the Upper Mississippian Epoch?
+
+~331-323 mya
+
+## When was the Serpukhovian Age?
+
+~331-323 mya
+
+## What Ages are in the Middle Mississippian Epoch?
+
+Visean
+
+## When was the Middle Mississippian Epoch?
+
+~346-331 mya
+
+## When was the Visean Age?
+
+~346-331 mya
+
+## What Ages are in the Lower Mississippian Epoch?
+
+Tournaisian
+
+## When was the Lower Mississippian Epoch?
+
+~358-346 mya
+
+## When was the Tournaisian Age?
+
+~358-346 mya
+
+## What Epochs are in the Pennsylvanian Epoch?
+
+Upper Pennsylvanian Epoch, Middle Pennsylvanian Epoch, Lower Pennsylvanian Epoch
+
+## What Ages are in the Upper Pennsylvanian Epoch?
+
+Kasimovian, Gzhelian
+
+## When was the Upper Pennsylvanian Epoch?
+
+~304-299 mya
+
+## When was the Kasimovian Age?
+
+~307-304 mya
+
+## When was the Gzhelian Age?
+
+~304-299 mya
+
+## What Ages are in the Middle Pennsylvanian Epoch?
+
+Moscovian
+
+## When was the Middle Pennsylvanian Epoch?
+
+~315-307 mya
+
+## When was the Moscovian Age?
+
+~315-307 mya
+
+## What Ages are in the Lower Pennsylvanian Epoch?
+
+Bashkirian
+
+## When was the Lower Pennsylvanian Epoch?
+
+~323-315 mya
+
+## When was the Bashkirian Age?
+
+~323-315 mya
+
+
+## What Periods are in the Paleozoic Era?
+
+Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian
+
+## When was the Paleozoic Era?
+
+~252-541 mya
+
+
+
+## What Epochs are in the Cambrian Period?
+
+Terreneuvian, Series 2, Miaolingian, Furongian
+
+## What Ages are in the Cambrian Period?
+
+Fortunian, Stage 2, Stage 3, Stage 4, Wuliuan, Drumian, Guzhangian, Paibian, Jiangshanian, Stage 10
+
+## When was the Cambrian Period?
+
+~485-541 mya
+
+
+
+## What Ages are in the Terreneuvian Epoch?
+
+Fortunian, Stage 2
+
+## When was the Terreneuvian Epoch?
+
+~529-541 mya
+
+## When was the Fortunian Age?
+
+~529-541 mya
+
+## When was Stage 2?
+
+~521-529 mya
+
+
+
+## What Ages are in Series 2 Epoch?
+
+Stage 3, Stage 4
+
+## When was Series 2 Epoch?
+
+~514-521 mya
+
+## When was Stage 3?
+
+~514-521 mya
+
+## When was Stage 4?
+
+~509-514 mya
+
+
+
+## What Ages are in the Miaolingian Epoch?
+
+Wuliuan, Drumian, Guzhangian
+
+## When was the Miaolingian Epoch?
+
+~497-509 mya
+
+## When was the Wuliuan Age?
+
+~504-509 mya
+
+## When was the Drumian Age?
+
+~500-504 mya
+
+## When was the Guzhangian Age?
+
+~497-500 mya
+
+
+
+## What Ages are in the Furongian Epoch?
+
+Paibian, Jiangshanian, Stage 10
+
+## When was the Furongian Epoch?
+
+~485-497 mya
+
+## When was the Paibian Age?
+
+~494-497 mya
+
+## When was the Jiangshanian Age?
+
+~489-494 mya
+
+## When was Stage 10?
+
+~485-489 mya
+
+
+
+## What Epochs are in the Ordovician Period?
+
+Lower Ordovician, Middle Ordovician, Upper Ordovician
+
+## What Ages are in the Ordovician Period?
+
+Tremadocian, Floian, Dapingian, Darriwilian, Sandbian, Katian, Hirnantian
+
+## When was the Ordovician Period?
+
+~443-485 mya
+
+
+
+## What Ages are in the Lower Ordovician Epoch?
+
+Tremadocian, Floian
+
+## When was the Lower Ordovician Epoch?
+
+~477-485 mya
+
+## When was the Tremadocian Age?
+
+~477-485 mya
+
+## When was the Floian Age?
+
+~470-477 mya
+
+
+
+## What Ages are in the Middle Ordovician Epoch?
+
+Dapingian, Darriwilian
+
+## When was the Middle Ordovician Epoch?
+
+~458-470 mya
+
+## When was the Dapingian Age?
+
+~467-470 mya
+
+## When was the Darriwilian Age?
+
+~458-467 mya
+
+
+
+## What Ages are in the Upper Ordovician Epoch?
+
+Sandbian, Katian, Hirnantian
+
+## When was the Upper Ordovician Epoch?
+
+~443-458 mya
+
+## When was the Sandbian Age?
+
+~453-458 mya
+
+## When was the Katian Age?
+
+~445-453 mya
+
+## When was the Hirnantian Age?
+
+~443-445 mya
+
+
+
+## What Epochs are in the Silurian Period?
+
+Llandovery, Wenlock, Ludlow, Pridoli
+
+## What Ages are in the Silurian Period?
+
+Rhuddanian, Aeronian, Telychian, Sheinwoodian, Homerian, Gorstian, Ludfordian
+
+## When was the Silurian Period?
+
+~419-443 mya
+
+
+
+## What Ages are in the Llandovery Epoch?
+
+Rhuddanian, Aeronian, Telychian
+
+## When was the Llandovery Epoch?
+
+~433-443 mya
+
+## When was the Rhuddanian Age?
+
+~440-443 mya
+
+## When was the Aeronian Age?
+
+~438-440 mya
+
+## When was the Telychian Age?
+
+~433-438 mya
+
+
+
+## What Ages are in the Wenlock Epoch?
+
+Sheinwoodian, Homerian
+
+## When was the Wenlock Epoch?
+
+~427-433 mya
+
+## When was the Sheinwoodian Age?
+
+~430-433 mya
+
+## When was the Homerian Age?
+
+~427-430 mya
+
+
+
+## What Ages are in the Ludlow Epoch?
+
+Gorstian, Ludfordian
+
+## When was the Ludlow Epoch?
+
+~423-427 mya
+
+## When was the Gorstian Age?
+
+~425-427 mya
+
+## When was the Ludfordian Age?
+
+~423-425 mya
+
+
+
+## What Ages are in the Pridoli Epoch?
+
+Ludfordian
+
+## When was the Pridoli Epoch?
+
+~419-423 mya
+
+
+
+## What Epochs are in the Devonian Period?
+
+Lower Devonian, Middle Devonian, Upper Devonian
+
+## What Ages are in the Devonian Period?
+
+Lochkovian, Pragian, Emsian, Eifelian, Givetian, Frasnian, Famennian
+
+## When was the Devonian Period?
+
+~359-419 mya
+
+
+
+## What Ages are in the Lower Devonian Epoch?
+
+Lochkovian, Pragian, Emsian
+
+## When was the Lower Devonian Epoch?
+
+~393-419 mya
+
+## When was the Lochkovian Age?
+
+~410-419 mya
+
+## When was the Pragian Age?
+
+~407-410 mya
+
+## When was the Emsian Age?
+
+~393-407 mya
+
+
+
+## What Ages are in the Middle Devonian Epoch?
+
+Eifelian, Givetian
+
+## When was the Middle Devonian Epoch?
+
+~382-393 mya
+
+## When was the Eifelian Age?
+
+~387-393 mya
+
+## When was the Givetian Age?
+
+~382-387 mya
+
+
+
+## What Ages are in the Upper Devonian Epoch?
+
+Frasnian, Famennian
+
+## When was the Upper Devonian Epoch?
+
+~359-382 mya
+
+## When was the Frasnian Age?
+
+~372-382 mya
+
+## When was the Famennian Age?
+
+~359-372 mya
