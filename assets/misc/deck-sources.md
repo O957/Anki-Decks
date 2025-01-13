@@ -13,3 +13,5 @@ Biology 2e (2018)
 Chemistry 2e (2019)
 
 Physics 2e (2022)
+
+Introduction to Mathematical Epidemiology (2015)
