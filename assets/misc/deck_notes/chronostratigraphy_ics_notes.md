@@ -7,4 +7,3 @@ _The following are notes by the author on the creation and possible issues with 
 * Missing, at present: Questions on the creator and derivation history of the units.
 * Missing, at present: Questions on the major milestones to have occurred in each unit, built up from the Age/Stage level.
 * Units are rounded to the nearest half-integer, except for units less than one million years in age.
-*
