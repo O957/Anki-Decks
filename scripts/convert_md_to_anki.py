@@ -20,7 +20,7 @@ import genanki
 
 
 def parse_markdown(file_path):
-    with open(file_path, "r") as f:
+    with open(file_path) as f:
         content = f.read()
     content = re.sub(r"\$\$(.+?)\$\$", r"\\[\1\\]", content, flags=re.DOTALL)
     content = re.sub(r"\$(.+?)\$", r"\\(\1\\)", content, flags=re.DOTALL)
@@ -69,7 +69,8 @@ def save_deck(deck, output_path, overwrite=False):
     """
     if os.path.exists(output_path) and not overwrite:
         raise FileExistsError(
-            f"The file '{output_path}' already exists. Use --overwrite to overwrite it."
+            f"The file '{output_path}' already exists."
+            " Use --overwrite to overwrite it."
         )
     genanki.Package(deck).write_to_file(output_path)
 
@@ -78,7 +79,6 @@ def save_deck(deck, output_path, overwrite=False):
 
 
 def main():
-
     parser = argparse.ArgumentParser(
         description="Convert a Markdown file into an Anki deck."
     )
