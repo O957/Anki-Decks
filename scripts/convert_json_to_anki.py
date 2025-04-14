@@ -33,6 +33,14 @@ def convert_json_to_anki(in_path: str, out_path: str) -> None:
         deck_id,
         f"{deck_name} Model",
         fields=[{"name": "Question"}, {"name": "Answer"}],
+        # see https://github.com/kerrickstaley/genanki for more on this
+        templates=[
+            {
+                "name": "Card 1",
+                "qfmt": "{{Question}}",
+                "afmt": "{{FrontSide}}<hr id='answer'>{{Answer}}",
+            },
+        ],
     )
     print(f"Genanki model created: {deck_name} Model")
     # iterate through json rows and input entries
