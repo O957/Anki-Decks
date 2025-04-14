@@ -30,6 +30,8 @@ Create, somewhere, a `json` file in the following format:
 * The author uses the folder `raw_decks` for deck `json` files.
 * The author uses the folder `rendered_decks` for `.apkg` files.
 * The author names Anki deck files the most recent publish or copyright date with the first letter of every word followed by the last name of the first author.[^example]
+* The author does not change the deck name or IDs but does change the question and answer content (which Anki will update).
+* The author only uses the fields Question and Answer, for now.
 
 [^example]: For example, Introduction To Paleobiology And The Fossil Record Edition 2, which was produced in 2020 and written by Benton, Michael J and Harper, David AT, would be `2020_ITPATFR_Benton.json`.
 
