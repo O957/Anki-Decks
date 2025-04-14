@@ -1,0 +1,3 @@
+INTRODUCTION TO PALEOBIOLOGY AND THE FOSSIL RECORD
+
+python3 ./scripts/convert_json_to_anki.py --in-path "./raw_decks/2020_ITPATFR_Benton.json" --out-path "./rendered_anki_decks/2020_ITPATFR_Benton.apkg"
