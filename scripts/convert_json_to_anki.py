@@ -8,6 +8,7 @@ other decks), and the Anki package output path.
 
 import argparse
 import json
+import re
 
 import genanki
 
@@ -24,10 +25,12 @@ def convert_json_to_anki(in_path: str, out_path: str) -> None:
 
     # ingest anki-ready json file
     with open(in_path, encoding="utf-8") as f:
-        deck = json.load(f)
+        json_deck = json.load(f)
     # retrieve deck name and deck ID from file
-    deck_name = deck.get("deck_name")
-    deck_id = deck.get("deck_id")
+    deck_name = json_deck.get("deck_name")
+    deck_id = json_deck.get("deck_id")
+    # define the empty anki deck
+    deck = genanki.Deck(deck_id=deck_id, name=deck_name)
     # create base genanki model w/ Question/Answer fields
     model = genanki.Model(
         deck_id,
@@ -41,13 +44,38 @@ def convert_json_to_anki(in_path: str, out_path: str) -> None:
                 "afmt": "{{FrontSide}}<hr id='answer'>{{Answer}}",
             },
         ],
+        # copied from another answer, so might be incorrect
+        css="""
+            .card {
+                font-family: arial;
+                font-size: 20px;
+                text-align: left;
+                color: black;
+                background-color: white;
+            }
+            .latex {
+                font-size: 18px;
+            }
+        """,
     )
     print(f"Genanki model created: {deck_name} Model")
     # iterate through json rows and input entries
-    for entry in deck.get("entries", []):
+    for entry in json_deck.get("entries", []):
+        # get question and answer from json
+        question = entry["question"]
+        answer = entry["answer"]
+
+        # apply latex conversion from $ to Anki supported tex
+        question = re.sub(
+            r"\$\$(.+?)\$\$", r"\\[\1\\]", question, flags=re.DOTALL
+        )
+        question = re.sub(r"\$(.+?)\$", r"\\(\1\\)", question, flags=re.DOTALL)
+        answer = re.sub(r"\$\$(.+?)\$\$", r"\\[\1\\]", answer, flags=re.DOTALL)
+        answer = re.sub(r"\$(.+?)\$", r"\\(\1\\)", answer, flags=re.DOTALL)
+        # make into genanki note
         note = genanki.Note(
             model=model,
-            fields=[entry["question"], entry["answer"]],
+            fields=[question, answer],
             guid=str(entry["id"]),
         )
         deck.add_note(note)
