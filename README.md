@@ -9,20 +9,26 @@ NOTE:
 
 ## Basic Usage
 
-Create, somewhere, a `json` file in the following format:
+Create, within `raw_decks`, a `json` file in the following format:
 
 ```json
 {
-    "deck": "2020_ITPATFR_Benton",
-    "deck_id": 1,
-    "entries": [
-        {
-            "id": "0001",
-            "question": "What are fossils?",
-            "answer": "The remains or traces of any organism that lived in the geological past. In general only the hard parts of organisms become fossilized (e.g. bones, teeth, shells, and wood) but under certain circumstances the entire organism is preserved."
-        }
-    ]
+  "deck_name": "2020_ITPATFR_Benton",
+  "deck_id": 2000,
+  "entries": [
+    {
+      "id": "0001",
+      "question": "What are fossils?",
+      "answer": "The remains or traces of any organism that lived in the geological past. In general only the hard parts of organisms become fossilized (e.g. bones, teeth, shells, and wood) but under certain circumstances the entire organism is preserved."
+    }
+  ]
 }
+```
+
+```
+python3 ./scripts/convert_json_to_anki.py
+--in-path  "./raw_decks/2020_ITPATFR_Benton.json"
+--out-path "./rendered_anki_decks/2020_ITPATFR_Benton.apkg"
 ```
 
 ## Standards
