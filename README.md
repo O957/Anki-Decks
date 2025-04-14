@@ -11,11 +11,27 @@ NOTE:
 
 Create, somewhere, a `json` file in the following format:
 
+```json
+{
+    "deck": "2020_ITPATFR_Benton",
+    "deck_id": 1,
+    "entries": [
+        {
+            "id": "0001",
+            "question": "What are fossils?",
+            "answer": "The remains or traces of any organism that lived in the geological past. In general only the hard parts of organisms become fossilized (e.g. bones, teeth, shells, and wood) but under certain circumstances the entire organism is preserved."
+        }
+    ]
+}
 ```
 
+## Standards
 
+* The author uses the folder `raw_decks` for deck `json` files.
+* The author uses the folder `rendered_decks` for `.apkg` files.
+* The author names Anki deck files the most recent publish or copyright date with the first letter of every word followed by the last name of the first author.[^example]
 
-```
+[^example]: For example, Introduction To Paleobiology And The Fossil Record Edition 2, which was produced in 2020 and written by Benton, Michael J and Harper, David AT, would be `2020_ITPATFR_Benton.json`.
 
 ## Deck List (Books)
 
