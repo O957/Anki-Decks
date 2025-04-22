@@ -5,6 +5,12 @@
     {
       "id": "0001",
       "question": "What are fossils?",
+      "answer": "The remains or traces of any organism that lived in the geological past. In general only the hard parts of organisms become fossilized (e.g. bones, teeth, shells, and wood) but under certain circumstances the entire organism is preserved.",
+      "source": "2017_ODOS_Oxford"
+    },
+    {
+      "id": "0001",
+      "question": "What are fossils?",
       "answer": "The remains or traces of any organism that lived in the geological past. In general only the hard parts of organisms become fossilized (e.g. bones, teeth, shells, and wood) but under certain circumstances the entire organism is preserved."
     }
   ]
