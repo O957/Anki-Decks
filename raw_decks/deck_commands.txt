@@ -1,3 +1,7 @@
+NOTE:
+
+Run from within Anki-Decks.
+
 EMPTY JSON
 
 {
