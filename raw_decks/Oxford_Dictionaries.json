@@ -1,0 +1,202 @@
+{
+  "deck_name": "Oxford_Dictionaries",
+  "deck_id": 2001,
+  "entries": [
+    {
+      "id": "00001",
+      "question": "What are fossils?",
+      "answer": "The remains or traces of any organism that lived in the geological past.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00002",
+      "question": "What is paleontology?",
+      "answer": "The study of extinct organisms, including their structure, environment, evolution, and distribution, as revealed by their fossil remains.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "paleontology"
+    },
+    {
+      "id": "00003",
+      "question": "What is paleontology?",
+      "answer": "The study of extinct organisms, including their structure, environment, evolution, and distribution, as revealed by their fossil remains.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "paleontology"
+    },
+    {
+      "id": "00004",
+      "question": "What parts of organisms can become fossilized?",
+      "answer": "In general, only the hard parts of organisms become fossilized (e.g. bones, teeth, shells, and wood) but under certain circumstances the entire organism is preserved.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00005",
+      "question": "What is petrification?",
+      "answer": "The process by which an organism turns to stone. The majority of fossils are petrified.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00006",
+      "question": "What are three types of petrification?",
+      "answer": "Permineralization, replacement (aka mineralization), and carbonization (aka distillation).",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00007",
+      "question": "What is permineralization?",
+      "answer": "Solutions originating underground fill the microscopic cavities in the organism.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00008",
+      "question": "What is replacement (aka mineralization)?",
+      "answer": "When minerals in underground solutions replace the original material of the organism so that even microscopic structures may be preserved.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00009",
+      "question": "What are two examples of minerals that can replace an organism?",
+      "answer": "Silica and calcite.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00010",
+      "question": "What is carbonization (aka distillation)?",
+      "answer": "A process that occurs in certain soft tissues that are composed chiefly of compounds of carbon, hydrogen, and oxygen (e.g. cellulose) where once the organism has been buried and in the absence of oxygen, carbon dioxide and water are liberated until only free carbon remains, which forms a black film in the rock outlining the original organism.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00011",
+      "question": "What is a fossil mould?",
+      "answer": "When the original fossil is dissolved away leaving a mould of its outline.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00012",
+      "question": "What is a fossil cast?",
+      "answer": "What is formed from the deposition of mineral matter from underground solutions in a fossil mould.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00013",
+      "question": "What is a fossil imprint?",
+      "answer": "Fossil moulds of thin organisms.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00014",
+      "question": "What are trace fossils?",
+      "answer": "Fossilized remnants of the evidence of animal life, such as tracks, trails, footprints, burrows, and coprolites.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00015",
+      "question": "What are ideal conditions for the formation of fossils?",
+      "answer": "In areas of rapid sedimentation especially those parts of the seabed that lie below the zone of wave disturbance.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00016",
+      "question": "What is a coprolite?",
+      "answer": "A fossilized dropping or excreta.",
+      "source": "2020_ODOGAES_Oxford",
+      "entry": "coprolite"
+    },
+    {
+      "id": "00017",
+      "question": "What may coprolites reveal?",
+      "answer": "Coprolites may have distinctive shapes or markings which can provide information regarding the structure of the animal's alimentary canal, and analysis of the contents may also reveal its diet.",
+      "source": "2020_ODOGAES_Oxford",
+      "entry": "coprolite"
+    },
+    {
+      "id": "00018",
+      "question": "What is a mineral?",
+      "answer": "A naturally occurring substance that has a characteristic chemical composition and, in general, a crystalline structure.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "mineral"
+    },
+    {
+      "id": "00019",
+      "question": "What is the term mineral often falsely applied to?",
+      "answer": "To organic substances that are obtained by mining (e.g., coal, petroleum, and natural gas) but strictly speaking these are not minerals, being complex mixtures without definite chemical structures.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "mineral"
+    },
+    {
+      "id": "00020",
+      "question": "How can minerals be identified?",
+      "answer": "By the properties of their crystal system, hardness (measured on Moh's scale), relative density, lustre, cleavage, and fracture.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "mineral"
+    },
+    {
+      "id": "00021",
+      "question": "What is a chemical fossil?",
+      "answer": "Any of the various organic compounds found in ancient geological strata that appear to be biological in origin and are assumed to indicate that life existed when the rocks were formed.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "chemical fossil"
+    },
+    {
+      "id": "00022",
+      "question": "What are index fossils (aka zone fossils)?",
+      "answer": "Fossils whose presence is chosen to denote the zone in which it occurs and after the zone is named.",
+      "source": "2020_ODOGAES_Oxford",
+      "entry": "index fossil"
+    },
+    {
+      "id": "00023",
+      "question": "Why are some fossils selected as index fossils?",
+      "answer": "For their distinctiveness and or abundance.",
+      "source": "2020_ODOGAES_Oxford",
+      "entry": "index fossil"
+    },
+    {
+      "id": "00024",
+      "question": "What properties should an index fossil have to be useful?",
+      "answer": "To be of use in biostratigraphy, an index fossil should ideally have a narrow range (i.e. to have undergone rapid evolutionary change) but have had a wide geographical distribution.",
+      "source": "2020_ODOGAES_Oxford",
+      "entry": "index fossil"
+    },
+    {
+      "id": "00025",
+      "question": "What are four examples of index fossils?",
+      "answer": "Cambrian trilobites, Jurassic ammonites, Ordovician and Silurian graptolites, and Cretaceous and Cenozoic foraminifera.",
+      "source": "2020_ODOGAES_Oxford",
+      "entry": "index fossil"
+    },
+    {
+      "id": "00026",
+      "question": "What are microfossils?",
+      "answer": "A fossil that is so small it can only be studied under a microscope.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "microfossil"
+    },
+    {
+      "id": "00027",
+      "question": "What are some examples of microfossils?",
+      "answer": "Fossilized bacteria, diatoms, and protists and parts of organisms, such as plant pollen and skeletal fragments",
+      "source": "2017_ODOS_Oxford",
+      "entry": "microfossil"
+    },
+    {
+      "id": "00028",
+      "question": "Why are microfossils valuable?",
+      "answer": "For the correlation of rocks where only small samples of rocks are available..",
+      "source": "2017_ODOS_Oxford",
+      "entry": "microfossil"
+    }
+  ]
+}
