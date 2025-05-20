@@ -12,14 +12,14 @@
     {
       "id": "00002",
       "question": "What is paleontology?",
-      "answer": "The study of extinct organisms, including their structure, environment, evolution, and distribution, as revealed by their fossil remains.",
+      "answer": "The study of extinct organisms.",
       "source": "2017_ODOS_Oxford",
       "entry": "paleontology"
     },
     {
       "id": "00003",
       "question": "What parts of organisms can become fossilized?",
-      "answer": "In general, only the hard parts of organisms become fossilized (e.g. bones, teeth, shells, and wood) but under certain circumstances the entire organism is preserved.",
+      "answer": "The hard parts. Under certain circumstances, the entire organism is preserved.",
       "source": "2017_ODOS_Oxford",
       "entry": "fossil"
     },
@@ -89,7 +89,7 @@
     {
       "id": "00013",
       "question": "What are trace fossils?",
-      "answer": "Fossilized remnants of the evidence of animal life, such as tracks, trails, footprints, burrows, and coprolites.",
+      "answer": "Fossilized remnants of the evidence of animal life.",
       "source": "2017_ODOS_Oxford",
       "entry": "fossil"
     },
@@ -190,6 +190,27 @@
       "answer": "For the correlation of rocks where only small samples of rocks are available.",
       "source": "2017_ODOS_Oxford",
       "entry": "microfossil"
+    },
+    {
+      "id": "00028",
+      "question": "What are some aspects of extinct organisms covered under paleontology?",
+      "answer": "Their structure, environment, evolution, and distribution, as revealed by their fossil remains.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "paleontology"
+    },
+    {
+      "id": "00029",
+      "question": "What are some examples of trace fossils?",
+      "answer": "Tracks, trails, footprints, burrows, and coprolites.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
+    },
+    {
+      "id": "00030",
+      "question": "What are some examples of hard parts of organisms that can become fossilized?",
+      "answer": "Bones, teeth, shells, and wood.",
+      "source": "2017_ODOS_Oxford",
+      "entry": "fossil"
     }
   ]
 }
