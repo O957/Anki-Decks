@@ -94,7 +94,7 @@ repos:
 # PYTHON
 ###############################################################################
 -   repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.9.4
+    rev: v0.11.13
     hooks:
     # "currently, the Ruff formatter does not sort imports.
     # In order to both sort imports and format, call
@@ -105,7 +105,8 @@ repos:
           "--select",
           # isort
           "I",
-          "--fix"]
+          "--fix"
+        ]
     # run ruff linter; the Ruff Linter is an extremely fast Python linter
     # designed as a drop-in replacement for Flake8 (plus dozens of plugins),
     # isort, pydocstyle, pyupgrade, autoflake, and more
@@ -132,7 +133,8 @@ repos:
           # linter checks for lines, but doesn't fix, default is 88
           "--line-length=79",
           # lint all files in the current directory, and fix any fixable errors.
-          "--fix"]
+          "--fix"
+        ]
     # run the ruff-formatter; the Ruff formatter is an extremely fast
     # Python code formatter designed as a drop-in replacement for Black
     -   id: ruff-format
@@ -143,7 +145,7 @@ repos:
 # XENON CODE COMPLEXITY
 ###############################################################################
 -   repo: https://github.com/rubik/xenon
-    rev: v0.9.0
+    rev: v0.9.3
     hooks:
     -   id: xenon
         args: [
@@ -160,11 +162,9 @@ repos:
 ###############################################################################
 -   repo: https://github.com/astral-sh/uv-pre-commit
     # uv version.
-    rev: 0.7.3
+    rev: 0.7.12
     hooks:
     -   id: uv-lock
-    -   id: uv-export
-        args: ["--no-hashes", "--output-file=requirements.txt"]
 ###############################################################################
 # MAKE FILES
 ###############################################################################
@@ -194,7 +194,7 @@ repos:
 # SPELLING
 ###############################################################################
 -   repo: https://github.com/crate-ci/typos
-    rev: dictgen-v0.3.1
+    rev: v1
     hooks:
     -   id: typos
         args: ["--force-exclude"]
@@ -202,7 +202,7 @@ repos:
 # COMMIT MESSAGES
 ###############################################################################
 -   repo: https://github.com/commitizen-tools/commitizen
-    rev: v4.1.1
+    rev: v4.8.3
     hooks:
     -   id: commitizen
 -   repo: https://github.com/jorisroovers/gitlint
