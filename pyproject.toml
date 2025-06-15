@@ -19,3 +19,8 @@ dependencies = [
 "Repository" = "https://github.com/AFg6K7h4fhy2/Anki-Decks"
 "Repository Issues" = "https://github.com/AFg6K7h4fhy2/Anki-Decks/issues"
 "Author Homepage" = "https://github.com/AFg6K7h4fhy2"
+
+[project.optional-dependencies]
+test = [
+    "pytest>=8.4.0",
+]
