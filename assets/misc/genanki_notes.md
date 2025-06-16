@@ -1,5 +1,4 @@
-
-
+_This document contains AI generated helper instructions._
 
 ### 1. Basic Flashcards
 - **Front:** A question or term.
