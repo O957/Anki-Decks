@@ -15,7 +15,7 @@ The base schema for cards:
     "source_year_published": "",
     "source_first_author_last_name": "",
     "source_bibtex_name": "",
-    "notes": "",
+    "notes": [""],
     "tags": [
     ""
     ],
@@ -24,6 +24,7 @@ The base schema for cards:
     ""
     ],
     "image_name": "",
+    "image_mode": "",
     "cloze": false
 }
 ```

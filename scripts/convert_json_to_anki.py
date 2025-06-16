@@ -4,6 +4,7 @@ a formatted `json` file. The `json` file path, unique deck
 ID, and Anki deck output path must be provided as command
 line arguments. Many of the templates used below come from:
 https://github.com/kerrickstaley/genanki (2025-06-15).
+Image mode options include "back, back_text, front"
 """
 
 import argparse
@@ -43,7 +44,18 @@ def anki_note(question, answer, model, entry, image_name):
     return note
 
 
-def convert_json_to_anki(in_path: str, out_path: str) -> None:
+def get_media_file_names(media_path):
+    if not media_path.exists() or not media_path.is_dir():
+        raise ValueError(
+            f"Media path does not exist or is not a directory: {media_path}"
+        )
+    media_files = [
+        str(file) for file in media_path.iterdir() if file.is_file()
+    ]
+    return media_files
+
+
+def convert_json_to_anki(in_path: str, out_path: str, media_path: str) -> None:
     """
     Parameters
     ----------
@@ -55,6 +67,8 @@ def convert_json_to_anki(in_path: str, out_path: str) -> None:
 
     # as pathlib
     file_path = pathlib.Path(in_path)
+    out_path = pathlib.Path(out_path)
+    media_path = pathlib.Path(media_path)
 
     # ingest anki-ready json file
     with open(in_path, encoding="utf-8") as f:
@@ -69,6 +83,11 @@ def convert_json_to_anki(in_path: str, out_path: str) -> None:
     # define the empty anki deck
     deck = genanki.Deck(deck_id=deck_id, name=deck_name)
     logger.info("Created GenAnki Deck.")
+
+    # get media files and add to deck
+    media_files = get_media_file_names(media_path)
+    anki_pkg = genanki.Package(deck)
+    anki_pkg.media_files = media_files
 
     # define css for all decks (copied from somewhere I can't recall)
     deck_css = """
@@ -86,12 +105,12 @@ def convert_json_to_anki(in_path: str, out_path: str) -> None:
 
     # define genanki non-image deck model
     non_image_model = genanki.Model(
-        deck_id,
+        deck_id + 1,
         f"Non-Image {deck_name} Model",
         fields=[{"name": "Question"}, {"name": "Answer"}],
         templates=[
             {
-                "name": "Card 1",
+                "name": "Default",
                 "qfmt": "{{Question}}",
                 "afmt": "{{FrontSide}}<hr id='answer'>{{Answer}}",
             },
@@ -100,27 +119,62 @@ def convert_json_to_anki(in_path: str, out_path: str) -> None:
     )
     logger.info("Non-Image Deck Model Created.")
 
-    # define genanki image deck model
-    image_model = genanki.Model(
-        deck_id,
+    # define genanki image (on front) deck model
+    image_front_model = genanki.Model(
+        deck_id + 2,
         f"Image {deck_name} Model",
         fields=[{"name": "Question"}, {"name": "Answer"}, {"name": "Media"}],
         templates=[
             {
-                "name": "Card 1",
-                "qfmt": "{{Question}}<br>{{MyMedia}}",
+                "name": "Image On Front",
+                "qfmt": "{{Question}}<br>{{Media}}",
                 "afmt": "{{FrontSide}}<hr id='answer'>{{Answer}}",
             },
         ],
     )
 
+    # define genanki image (on front) deck model
+    image_back_model = genanki.Model(
+        deck_id + 3,
+        f"Image {deck_name} Model",
+        fields=[{"name": "Question"}, {"name": "Answer"}, {"name": "Media"}],
+        templates=[
+            {
+                "name": "Image On Back",
+                "qfmt": "{{Question}}",
+                "afmt": "{{FrontSide}}<hr id='answer'>{{Media}}",
+            },
+        ],
+    )
+
+    # define genanki image (on front) deck model
+    image_back_text_model = genanki.Model(
+        deck_id + 4,
+        f"Image {deck_name} Model",
+        fields=[{"name": "Question"}, {"name": "Answer"}, {"name": "Media"}],
+        templates=[
+            {
+                "name": "Image On Back With Text",
+                "qfmt": "{{Question}}",
+                "afmt": "{{FrontSide}}<hr id='answer'>{{Answer}}<br>{{Media}}",
+            },
+        ],
+    )
+
+    # image model for use in note creation
+    image_models = {
+        "front": image_front_model,
+        "back": image_back_model,
+        "back_text": image_back_text_model,
+    }
+
     # iterate through json rows and input entries
     for entry in json_deck.get("entries", []):
-        if entry["include"]:
+        if entry.get("include", True):
             # get question and answer from json
             question = entry["question"]
             answer = entry["answer"]
-            image_name = entry["image_name"]
+            image_name = entry.get("image_name", "")
 
             if image_name == "":
                 note = anki_note(
@@ -131,26 +185,23 @@ def convert_json_to_anki(in_path: str, out_path: str) -> None:
                     image_name=image_name,
                 )
             else:
+                image_mode = entry.get("image_mode", "front")
                 note = anki_note(
                     question=question,
                     answer=answer,
-                    model=image_model,
+                    model=image_models[image_mode],
                     entry=entry,
                     image_name=image_name,
                 )
-
             deck.add_note(note)
 
     # create the deck from genanki notes
-    genanki.Package(deck).write_to_file(out_path)
-    logger.info("Deck {deck_name} Written To {out_path}.")
+    anki_pkg.write_to_file(out_path)
+    logger.info(f"Deck {deck_name} Written To {out_path}.")
 
 
-def main(
-    in_path: str,
-    out_path: str,
-) -> None:
-    convert_json_to_anki(in_path, out_path)
+def main(in_path: str, out_path: str, media_path: str) -> None:
+    convert_json_to_anki(in_path, out_path, media_path)
 
 
 if __name__ == "__main__":
@@ -168,6 +219,11 @@ if __name__ == "__main__":
         "--out-path",
         type=str,
         help="Output path for Anki deck rendered from `json` file.",
+    )
+    parser.add_argument(
+        "--media-path",
+        type=str,
+        help="Path to any media files used in the deck.",
     )
     args = parser.parse_args()
     main(**vars(args))
