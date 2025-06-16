@@ -116,32 +116,34 @@ def convert_json_to_anki(in_path: str, out_path: str) -> None:
 
     # iterate through json rows and input entries
     for entry in json_deck.get("entries", []):
-        # get question and answer from json
-        question = entry["question"]
-        answer = entry["answer"]
-        image_name = entry["image_name"]
+        if entry["include"]:
+            # get question and answer from json
+            question = entry["question"]
+            answer = entry["answer"]
+            image_name = entry["image_name"]
 
-        if image_name == "":
-            note = anki_note(
-                question=question,
-                answer=answer,
-                model=non_image_model,
-                entry=entry,
-                image_name=image_name,
-            )
-        else:
-            note = anki_note(
-                question=question,
-                answer=answer,
-                model=image_model,
-                entry=entry,
-                image_name=image_name,
-            )
+            if image_name == "":
+                note = anki_note(
+                    question=question,
+                    answer=answer,
+                    model=non_image_model,
+                    entry=entry,
+                    image_name=image_name,
+                )
+            else:
+                note = anki_note(
+                    question=question,
+                    answer=answer,
+                    model=image_model,
+                    entry=entry,
+                    image_name=image_name,
+                )
 
-        deck.add_note(note)
+            deck.add_note(note)
+
     # create the deck from genanki notes
     genanki.Package(deck).write_to_file(out_path)
-    logger.info("Deck {deck_name} Written To {out_path}")
+    logger.info("Deck {deck_name} Written To {out_path}.")
 
 
 def main(
