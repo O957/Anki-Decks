@@ -4,6 +4,18 @@ _This document contains justification and reasoning for design and other decisio
 
 2025-06-15:
 
+The protocol for re-uploading modified decks to Anki is the following:
+
+![](../images/deck_protocol.png)
+
+i.e.
+
+* Import any learning progress: TRUE
+* Import any deck presets: TRUE
+* Merge note types: TRUE
+* Update notes: "If newer"
+* Update note types: "If newer"
+
 The base schema for cards:
 
 ```json
