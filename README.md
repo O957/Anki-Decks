@@ -28,7 +28,7 @@ Create, within `raw_decks`, a `json` file in the following format:
 ```
 python3 ./scripts/convert_json_to_anki.py
 --in-path  "./raw_decks/2020_ITPATFR_Benton.json"
---out-path "./rendered_anki_decks/2020_ITPATFR_Benton.apkg"
+--out-path "./output/2020_ITPATFR_Benton.apkg"
 ```
 
 ## Standards
