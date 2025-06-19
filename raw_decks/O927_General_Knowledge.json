@@ -1334,8 +1334,8 @@
         },
         {
             "id": "00059",
-            "question": "When did US president Thomas Jefferson serve?",
-            "answer": "1801 to 1809",
+            "question": "When did US president James Buchanan serve?",
+            "answer": "1857 to 1861",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
             "source_year_published": "2021",
@@ -1360,7 +1360,7 @@
         {
             "id": "00060",
             "question": "Which US president is this?",
-            "answer": "Thomas Jefferson",
+            "answer": "James Buchanan",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
             "source_year_published": "2021",
@@ -1378,8 +1378,1533 @@
             "links": [
                 ""
             ],
-            "image_name": "thomas_jefferson_headshot.png",
+            "image_name": "james_buchanan_headshot.png",
             "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00061",
+            "question": "When did US president Abraham Lincoln serve?",
+            "answer": "1861 to 1865",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00062",
+            "question": "Which US president is this?",
+            "answer": "Abraham Lincoln",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "abraham_lincoln_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00063",
+            "question": "When did US president Andrew Johnson serve?",
+            "answer": "1865 to 1869",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00064",
+            "question": "Which US president is this?",
+            "answer": "Andrew Johnson",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "andrew_johnson_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00065",
+            "question": "When did US president Ulysses S Grant serve?",
+            "answer": "1869 to 1877",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00066",
+            "question": "Which US president is this?",
+            "answer": "Ulysses S Grant",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "ulysses_s_grant_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00067",
+            "question": "When did US president Rutherford B Hayes serve?",
+            "answer": "1877 to 1881",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00068",
+            "question": "Which US president is this?",
+            "answer": "Rutherford B Hayes",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "rutherford_b_hayes_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00069",
+            "question": "When did US president James A Garfield serve?",
+            "answer": "1881 to 1881",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00070",
+            "question": "Which US president is this?",
+            "answer": "James A Garfield",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "james_a_garfield_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00071",
+            "question": "When did US president Chester A Arthur serve?",
+            "answer": "1881 to 1885",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00072",
+            "question": "Which US president is this?",
+            "answer": "Chester A Arthur",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "chester_a_arthur_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00073",
+            "question": "When did US president Grover Cleveland serve?",
+            "answer": "1885 to 1889 and 1893 to 1897",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00074",
+            "question": "Which US president is this?",
+            "answer": "Grover Cleveland",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "grover_cleveland_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00075",
+            "question": "When did US president Benjamin Harrison serve?",
+            "answer": "1889 to 1893",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00076",
+            "question": "Which US president is this?",
+            "answer": "Benjamin Harrison",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "benjamin_harrison_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00077",
+            "question": "When did US president William McKinley serve?",
+            "answer": "1897 to 1901",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00078",
+            "question": "Which US president is this?",
+            "answer": "William McKinley",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "william_mckinley_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00079",
+            "question": "When did US president Theodore Roosevelt serve?",
+            "answer": "1901 to 1909",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00080",
+            "question": "Which US president is this?",
+            "answer": "Theodore Roosevelt",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "theodore_roosevelt_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00081",
+            "question": "When did US president William Howard Taft serve?",
+            "answer": "1909 to 1913",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00082",
+            "question": "Which US president is this?",
+            "answer": "William Howard Taft",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "william_howard_taft_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00083",
+            "question": "When did US president Woodrow Wilson serve?",
+            "answer": "1913 to 1921",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00084",
+            "question": "Which US president is this?",
+            "answer": "Woodrow Wilson",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "woodrow_willson_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00085",
+            "question": "When did US president Warren G Harding serve?",
+            "answer": "1921 to 1923",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00086",
+            "question": "Which US president is this?",
+            "answer": "Warren G Harding",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "warren_g_harding_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00087",
+            "question": "When did US president Calvin Coolidge serve?",
+            "answer": "1923 to 1929",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00088",
+            "question": "Which US president is this?",
+            "answer": "Calvin Coolidge",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "calvin_coolidge_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00089",
+            "question": "When did US president Herbert Hoover serve?",
+            "answer": "1929 to 1933",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00090",
+            "question": "Which US president is this?",
+            "answer": "Herbert Hoover",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "herbert_hoover_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00091",
+            "question": "When did US president Franklin D Roosevelt serve?",
+            "answer": "1933 to 1945",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00092",
+            "question": "Which US president is this?",
+            "answer": "Franklin D Roosevelt",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "franklin_d_roosevelt_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00093",
+            "question": "When did US president Harry S Truman serve?",
+            "answer": "1945 to 1953",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00094",
+            "question": "Which US president is this?",
+            "answer": "Harry S Truman",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "harry_s_truman_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00095",
+            "question": "When did US president Dwight D Eisenhower serve?",
+            "answer": "1953 to 1961",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00096",
+            "question": "Which US president is this?",
+            "answer": "Dwight D Eisenhower",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "dwight_d_eisenhower_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00097",
+            "question": "When did US president John F Kennedy serve?",
+            "answer": "1961 to 1963",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00098",
+            "question": "Which US president is this?",
+            "answer": "John F Kennedy",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "john_f_kennedy_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00099",
+            "question": "When did US president Lyndon B Johnson serve?",
+            "answer": "1963 to 1969",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00100",
+            "question": "Which US president is this?",
+            "answer": "Lyndon B Johnson",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "lyndon_b_johnson_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00101",
+            "question": "When did US president Richard Nixon serve?",
+            "answer": "1969 to 1974",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00102",
+            "question": "Which US president is this?",
+            "answer": "Richard Nixon",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "richard_nixon_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00103",
+            "question": "When did US president Gerald Ford serve?",
+            "answer": "1974 to 1977",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00104",
+            "question": "Which US president is this?",
+            "answer": "Gerald Ford",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "gerald_ford_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00105",
+            "question": "When did US president Jimmy Carter serve?",
+            "answer": "1977 to 1981",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00106",
+            "question": "Which US president is this?",
+            "answer": "Jimmy Carter",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "jimmy_carter_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00107",
+            "question": "When did US president Ronald Reagan serve?",
+            "answer": "1981 to 1989",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00108",
+            "question": "Which US president is this?",
+            "answer": "Ronald Reagan",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "ronald_reagon_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00109",
+            "question": "When did US president George HW Bush serve?",
+            "answer": "1989 to 1993",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00110",
+            "question": "Which US president is this?",
+            "answer": "George HW Bush",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "george_hw_bush_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00111",
+            "question": "When did US president Bill Clinton serve?",
+            "answer": "1993 to 2001",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00112",
+            "question": "Which US president is this?",
+            "answer": "Bill Clinton",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "bill_clinton_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00113",
+            "question": "When did US president George W Bush serve?",
+            "answer": "2001 to 2009",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00114",
+            "question": "Which US president is this?",
+            "answer": "George W Bush",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "george_w_bush_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00115",
+            "question": "When did US president Barack Obama serve?",
+            "answer": "2009 to 2017",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00116",
+            "question": "Which US president is this?",
+            "answer": "Barack Obama",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "barack_obama_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00117",
+            "question": "When did US president Donald Trump serve?",
+            "answer": "2017 to 2021 and 2025 to 2029",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00118",
+            "question": "Which US president is this?",
+            "answer": "Donald Trump",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "donald_trump_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00119",
+            "question": "When did US president Joe Biden serve?",
+            "answer": "2021 to 2025",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00120",
+            "question": "Which US president is this?",
+            "answer": "Joe Biden",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "joe_biden_headshot.png",
+            "image_mode": "front",
+            "cloze": false
+        },
+        {
+            "id": "00121",
+            "question": "How many presidents and presidencies have there been?",
+            "answer": "45 men have served 47 presidencies",
+            "source_abbr": "White_AAHBOUPDTILWSH_2021",
+            "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_year_published": "2021",
+            "source_first_author_last_name": "White",
+            "source_bibtex_name": "",
+            "notes": [
+                ""
+            ],
+            "tags": [
+                "history",
+                "United States",
+                "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
             "cloze": false
         }
     ]
