@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 This script is used as a pre-commit hook to get the files
 names of media files from a target media directory. These
@@ -24,6 +25,6 @@ files = sorted(files)
 
 OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 with OUTPUT_FILE.open("w", encoding="utf-8") as f:
-    json.dump(files, f, indent=2, ensure_ascii=False)
-
+    json.dump(files, f, indent=4, ensure_ascii=False)
+    f.write("\n")
 print(f"Wrote {len(files)} media filenames to {OUTPUT_FILE}")
