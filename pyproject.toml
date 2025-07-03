@@ -13,6 +13,7 @@ keywords = ["anki", "spaced-repetition", "human-memory", "personal"]
 dependencies = [
     "genanki>=0.13.1",
     "matplotlib>=3.10.3",
+    "pillow>=11.2.1",
 ]
 
 [project.urls]
