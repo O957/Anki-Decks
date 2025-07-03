@@ -29,11 +29,11 @@ The base schema for cards:
     "source_bibtex_name": "",
     "notes": [""],
     "tags": [
-    ""
+        ""
     ],
     "include": true,
     "links": [
-    ""
+        ""
     ],
     "image_name": "",
     "image_mode": "",
