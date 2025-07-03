@@ -9,7 +9,9 @@ import pathlib
 import polars as pl
 
 DECK_DIR = pathlib.Path(__file__).parent.parent / "raw_decks"
-MEDIA_DIR = pathlib.Path(__file__).parent.parent.parent / "Anki-Decks-Media"
+MEDIA_JSON = (
+    pathlib.Path(__file__).parent.parent / "assets" / "media_files.json"
+)
 
 deck_files = list(DECK_DIR.rglob("*.json")) + list(DECK_DIR.rglob("*.parquet"))
 assert deck_files, f"No deck files found in {DECK_DIR}."
@@ -101,9 +103,13 @@ def test_entries_have_sources():
 
 def test_no_unused_media_file():
     """
-    Tests each media is associated with some entry across
-    decks.
+    Tests each media listed in the manifest is associated
+    with some entry across decks.
     """
+    # load the media manifest
+    with open(MEDIA_JSON, encoding="utf-8") as mf:
+        media_files = set(json.load(mf))
+
     referenced = set()
     for deck in deck_files:
         entries = _load_entries(deck)
@@ -112,25 +118,29 @@ def test_no_unused_media_file():
             if name:
                 referenced.add(name)
 
-    media_files = {f.name for f in MEDIA_DIR.rglob("*") if f.is_file()}
     unused = media_files - referenced
-    assert not unused, f"Unused media files found: {sorted(unused)}"
+    assert not unused, (
+        f"Unused media files found in manifest: {sorted(unused)}"
+    )
 
 
 def test_no_nonexistent_media_file():
     """
     Tests each entry with a media file to ensure that the
-    media file actually exists.
+    media file actually exists in the manifest.
     """
+    with open(MEDIA_JSON, encoding="utf-8") as mf:
+        media_files = set(json.load(mf))
+
     for deck in deck_files:
         entries = _load_entries(deck)
         for e in entries:
             name = e.get("image_name")
             if name:
-                path = MEDIA_DIR / name
-                assert path.exists(), (
+                assert name in media_files, (
                     f"Entry {e.get('id', '<no-id>')} in {deck.name} "
-                    f"references missing media {name}"
+                    f"references missing media '{name}' not listed in "
+                    "media_manifest"
                 )
 
 
