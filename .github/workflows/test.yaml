@@ -1,4 +1,4 @@
-name: Test Anki Decks
+name: test-anki-decks
 
 on:
   pull_request:
@@ -15,7 +15,6 @@ concurrency:
 
 jobs:
   anki-decks:
-    name: Run pyrenew_hew tests and collect coverage
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
