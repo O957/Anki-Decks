@@ -7,8 +7,10 @@ _This document captures features that this repository or project that are curren
 
 _Entries from the following resources may be added on a monthly basis. When all desired entries from a resource are added, the resource is checked off._
 
-
+* [ ] Artworks (creator, creator lifespan, name of artwork, year artwork created)
+* [ ] Flora and fauna of the area.
 * [ ] Fauna of the Pierre Shale.
+* [ ] Historical figures in science and mathematics.
 * [ ] Fauna of the Ordovician of Nashville, Tennessee.
 * [ ] Fauna of the Devonian of New York.
 * [ ] Fauna of the Late Cretaceous North Atlantic Coastal Plain.
