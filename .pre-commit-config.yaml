@@ -38,12 +38,13 @@ repos:
 ###############################################################################
 # ANKI MEDIA FILES FOR TESTING
 ###############################################################################
--   repo: local
-    hooks:
-    -   id: generate-media-file
-        name: Media Files For Anki Testing
-        entry: ./scripts/gather_media_file_names.py
-        language: python # remember chmod +x the script
+# commented for now since this does not work remotely
+# -   repo: local
+#     hooks:
+#     -   id: generate-media-file
+#         name: Media Files For Anki Testing
+#         entry: ./scripts/gather_media_file_names.py
+#         language: python # remember chmod +x the script
 ###############################################################################
 # GENERAL
 ###############################################################################
