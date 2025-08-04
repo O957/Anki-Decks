@@ -4,16 +4,17 @@
     "entries": [
         {
             "id": "00001",
-            "question": "What are fossils?",
+            "question": "What is a fossil?",
             "answer": "The remains or traces of any organism that lived in the geological past.",
             "source_abbr": "AGI_GOGED5_2011",
-            "source_original": "",
+            "source_original": "Any remains, trace, or imprint of a plant or animal that has been preserved in the Earth's crust since some past geologic or prehistoric time.",
             "source_year_published": "2011",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
             "tags": [
-                ""
+                "paleontology",
+                "geology"
             ],
             "include": true,
             "links": [
@@ -26,13 +27,13 @@
         {
             "id": "00002",
             "question": "What is paleontology?",
-            "answer": "The study of extinct organisms.",
+            "answer": "The formal, systematic description of fossils.",
             "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "paleontology",
+            "notes": "",
             "tags": [
                 ""
             ],
@@ -46,9 +47,9 @@
         },
         {
             "id": "00003",
-            "question": "What parts of organisms can become fossilized?",
+            "question": "Which parts of organisms can become fossilized?",
             "answer": "The hard parts. Under certain circumstances, the entire organism is preserved.",
-            "source_abbr": "AGI_GOGED5_2011",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
@@ -67,14 +68,14 @@
         },
         {
             "id": "00004",
-            "question": "What is petrification?",
-            "answer": "The process by which an organism turns to stone. The majority of fossils are petrified.",
+            "question": "What is petrifaction?",
+            "answer": "A process of fossilization whereby organic matter is converted into a stony substance by the infiltration of water containing dissolved inorganic matter (such as calcium carbonate or silica) which replaces the original organic materials, sometimes retaining the structure.",
             "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
             "tags": [
                 ""
             ],
@@ -88,9 +89,9 @@
         },
         {
             "id": "00005",
-            "question": "What are three types of petrification?",
+            "question": "What are three types of petrifaction?",
             "answer": "Permineralization, replacement (aka mineralization), and carbonization (aka distillation).",
-            "source_abbr": "AGI_GOGED5_2011",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
@@ -110,13 +111,13 @@
         {
             "id": "00006",
             "question": "What is permineralization?",
-            "answer": "Solutions originating underground fill the microscopic cavities in the organism.",
+            "answer": "A process of fossilization whereby the original hard parts of an animal have additional mineral material deposited into their pore spaces.",
             "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
             "tags": [
                 ""
             ],
@@ -130,14 +131,14 @@
         },
         {
             "id": "00007",
-            "question": "What is replacement (aka mineralization)?",
-            "answer": "When minerals in underground solutions replace the original material of the organism so that even microscopic structures may be preserved.",
+            "question": "What is mineralization?",
+            "answer": "A process of fossilization whereby the organic components of an organism are replace by 'inorganic' (mineral) material.",
             "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
             "tags": [
                 ""
             ],
@@ -153,7 +154,7 @@
             "id": "00008",
             "question": "What are two examples of minerals that can replace an organism?",
             "answer": "Silica and calcite.",
-            "source_abbr": "AGI_GOGED5_2011",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
@@ -172,14 +173,14 @@
         },
         {
             "id": "00009",
-            "question": "What is carbonization (aka distillation)?",
-            "answer": "A process that occurs in certain soft tissues that are composed chiefly of compounds of carbon, hydrogen, and oxygen (e.g. cellulose) where once the organism has been buried and in the absence of oxygen, carbon dioxide and water are liberated until only free carbon remains, which forms a black film in the rock outlining the original organism.",
+            "question": "What is carbonization?",
+            "answer": "A process of fossilization wherein the original organic material of an organism has been reduced to a film of carbon compounds.",
             "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
             "tags": [
                 ""
             ],
@@ -194,13 +195,13 @@
         {
             "id": "00010",
             "question": "What is a fossil mould?",
-            "answer": "When the original fossil is dissolved away leaving a mould of its outline.",
+            "answer": "An impression made in surrounding earth or rock material by an exterior or interior of a fossil shell or other organic structure.",
             "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
             "tags": [
                 ""
             ],
