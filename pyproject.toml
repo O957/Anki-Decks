@@ -20,6 +20,4 @@ dependencies = [
 "Author Homepage" = "https://github.com/AFg6K7h4fhy2"
 
 [project.optional-dependencies]
-test = [
-    "pytest>=8.4.0",
-]
+test = []
