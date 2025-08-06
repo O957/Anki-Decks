@@ -42,4 +42,4 @@ jobs:
 
       - name: Install & Run Deptry
         run: |
-          uvx deptry src
+          uvx deptry src tests

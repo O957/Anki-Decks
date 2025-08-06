@@ -20,4 +20,14 @@ dependencies = [
 "Author Homepage" = "https://github.com/AFg6K7h4fhy2"
 
 [project.optional-dependencies]
-test = []
+test = [
+    "pytest>=8.4.1",
+]
+
+[dependency-groups]
+dev = [
+    "polars>=1.32.0",
+]
+
+[tool.deptry]
+pep621_dev_dependency_groups = ["dev", "test"]
