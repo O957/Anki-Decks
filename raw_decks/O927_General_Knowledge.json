@@ -12,6 +12,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "",
+            "page_number": "",
             "tags": [
                 "paleontology",
                 "geology"
@@ -34,6 +35,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -55,6 +57,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -76,6 +79,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -97,6 +101,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -118,6 +123,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -139,6 +145,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -160,6 +167,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -181,6 +189,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -202,6 +211,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -216,13 +226,14 @@
         {
             "id": "00011",
             "question": "What is a fossil cast?",
-            "answer": "What is formed from the deposition of mineral matter from underground solutions in a fossil mould.",
+            "answer": "Secondary rock or mineral material that fills a natural mold; specif. a replica or reproduction of the external details (size, shape, surface features) of a fossil shell, skeleton, or other organic structure, produced by the filling of acavity formed by the decay or dissolution of some or all of the original hard parts of which the organism consisted.",
             "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "cast [paleont]",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -238,12 +249,13 @@
             "id": "00012",
             "question": "What is a fossil imprint?",
             "answer": "Fossil moulds of thin organisms.",
-            "source_abbr": "AGI_GOGED5_2011",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -258,13 +270,14 @@
         {
             "id": "00013",
             "question": "What are trace fossils?",
-            "answer": "Fossilized remnants of the evidence of animal life.",
+            "answer": "A sedimentary structure consisting of a fossilized track, trail, burrow, tube, boring, or tunnel resulting from the life activities (other than growth) of an animal.",
             "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "trace fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -280,12 +293,13 @@
             "id": "00014",
             "question": "What are ideal conditions for the formation of fossils?",
             "answer": "In areas of rapid sedimentation especially those parts of the seabed that lie below the zone of wave disturbance.",
-            "source_abbr": "AGI_GOGED5_2011",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -307,6 +321,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "coprolite",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -328,6 +343,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "coprolite",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -342,13 +358,14 @@
         {
             "id": "00017",
             "question": "What is a mineral?",
-            "answer": "A naturally occurring substance that has a characteristic chemical composition and, in general, a crystalline structure.",
-            "source_abbr": "OQR_ODOSED7_2017",
+            "answer": "A naturally occurring inorganic element or compound having a periodically repeating arrangement of atoms and characteristic chemical composition, resulting in distinctive physical properties.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "mineral",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -370,6 +387,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "mineral",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -391,6 +409,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "mineral",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -405,13 +424,14 @@
         {
             "id": "00020",
             "question": "What is a chemical fossil?",
-            "answer": "Any of the various organic compounds found in ancient geological strata that appear to be biological in origin and are assumed to indicate that life existed when the rocks were formed.",
+            "answer": "A chemical trace of an organism that has been mostly destroyed by diagenetic processes.",
             "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "chemical fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -433,6 +453,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "index species",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -454,6 +475,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "index fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -475,6 +497,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "index fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -496,6 +519,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "index fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -510,13 +534,14 @@
         {
             "id": "00025",
             "question": "What are microfossils?",
-            "answer": "A fossil that is so small it can only be studied under a microscope.",
-            "source_abbr": "OQR_ODOSED7_2017",
+            "answer": "A fossil too small to be studied without the aid of a microscope. It may be the remains of a microscopic organism or a part of a larger organism.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "microfossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -538,6 +563,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "microfossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -559,6 +585,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "microfossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -580,6 +607,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "paleontology",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -601,6 +629,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -622,6 +651,7 @@
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -645,6 +675,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -670,6 +701,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -695,6 +727,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -720,6 +753,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -745,6 +779,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -770,6 +805,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -795,6 +831,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -820,6 +857,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -845,6 +883,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -870,6 +909,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -895,6 +935,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -920,6 +961,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -945,6 +987,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -970,6 +1013,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -995,6 +1039,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1020,6 +1065,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1045,6 +1091,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1070,6 +1117,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1095,6 +1143,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1120,6 +1169,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1145,6 +1195,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1170,6 +1221,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1195,6 +1247,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1220,6 +1273,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1245,6 +1299,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1270,6 +1325,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1295,6 +1351,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1320,6 +1377,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1345,6 +1403,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1370,6 +1429,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1395,6 +1455,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1420,6 +1481,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1445,6 +1507,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1470,6 +1533,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1495,6 +1559,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1520,6 +1585,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1545,6 +1611,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1570,6 +1637,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1595,6 +1663,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1620,6 +1689,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1645,6 +1715,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1670,6 +1741,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1695,6 +1767,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1720,6 +1793,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1745,6 +1819,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1770,6 +1845,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1795,6 +1871,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1820,6 +1897,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1845,6 +1923,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1870,6 +1949,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1895,6 +1975,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1920,6 +2001,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1945,6 +2027,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1970,6 +2053,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1995,6 +2079,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2020,6 +2105,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2045,6 +2131,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2070,6 +2157,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2095,6 +2183,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2120,6 +2209,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2145,6 +2235,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2170,6 +2261,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2195,6 +2287,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2220,6 +2313,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2245,6 +2339,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2270,6 +2365,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2295,6 +2391,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2320,6 +2417,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2345,6 +2443,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2370,6 +2469,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2395,6 +2495,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2420,6 +2521,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2445,6 +2547,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2470,6 +2573,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2495,6 +2599,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2520,6 +2625,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2545,6 +2651,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2570,6 +2677,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2595,6 +2703,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2620,6 +2729,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2645,6 +2755,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2670,6 +2781,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2695,6 +2807,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2720,6 +2833,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2745,6 +2859,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2770,6 +2885,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2795,6 +2911,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2820,6 +2937,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2845,6 +2963,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2870,6 +2989,7 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2895,10 +3015,33 @@
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
                 "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00122",
+            "question": "What are non-growth activities that may result in trace fossils?",
+            "answer": "Marks made by moving, creeping, feeding, hiding, browsing, running, or resting on or in soft sediment",
+            "source_abbr": "AGI_GOGED5_2011",
+            "source_original": "",
+            "source_year_published": "",
+            "source_first_author_last_name": "",
+            "source_bibtex_name": "",
+            "notes": "trace fossil",
+            "page_number": "",
+            "tags": [
+                ""
             ],
             "include": true,
             "links": [
