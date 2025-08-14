@@ -4,16 +4,19 @@
     "entries": [
         {
             "id": "00001",
-            "question": "What are fossils?",
+            "question": "What is a fossil?",
             "answer": "The remains or traces of any organism that lived in the geological past.",
-            "source_abbr": "2017_ODOS_Oxford",
-            "source_original": "",
-            "source_year_published": "",
+            "source_abbr": "AGI_GOGED5_2011",
+            "source_original": "Any remains, trace, or imprint of a plant or animal that has been preserved in the Earth's crust since some past geologic or prehistoric time.",
+            "source_original_term": "",
+            "source_year_published": "2011",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
+            "page_number": "",
             "tags": [
-                ""
+                "paleontology",
+                "geology"
             ],
             "include": true,
             "links": [
@@ -26,13 +29,15 @@
         {
             "id": "00002",
             "question": "What is paleontology?",
-            "answer": "The study of extinct organisms.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "answer": "The formal, systematic description of fossils.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "paleontology",
+            "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -46,14 +51,16 @@
         },
         {
             "id": "00003",
-            "question": "What parts of organisms can become fossilized?",
+            "question": "Which parts of organisms can become fossilized?",
             "answer": "The hard parts. Under certain circumstances, the entire organism is preserved.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -67,14 +74,16 @@
         },
         {
             "id": "00004",
-            "question": "What is petrification?",
-            "answer": "The process by which an organism turns to stone. The majority of fossils are petrified.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "question": "What is petrifaction?",
+            "answer": "A process of fossilization whereby organic matter is converted into a stony substance by the infiltration of water containing dissolved inorganic matter (such as calcium carbonate or silica) which replaces the original organic materials, sometimes retaining the structure.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -88,14 +97,16 @@
         },
         {
             "id": "00005",
-            "question": "What are three types of petrification?",
+            "question": "What are three types of petrifaction?",
             "answer": "Permineralization, replacement (aka mineralization), and carbonization (aka distillation).",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -110,13 +121,15 @@
         {
             "id": "00006",
             "question": "What is permineralization?",
-            "answer": "Solutions originating underground fill the microscopic cavities in the organism.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "answer": "A process of fossilization whereby the original hard parts of an animal have additional mineral material deposited into their pore spaces.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -130,14 +143,16 @@
         },
         {
             "id": "00007",
-            "question": "What is replacement (aka mineralization)?",
-            "answer": "When minerals in underground solutions replace the original material of the organism so that even microscopic structures may be preserved.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "question": "What is mineralization?",
+            "answer": "A process of fossilization whereby the organic components of an organism are replace by 'inorganic' (mineral) material.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -153,12 +168,14 @@
             "id": "00008",
             "question": "What are two examples of minerals that can replace an organism?",
             "answer": "Silica and calcite.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -172,14 +189,16 @@
         },
         {
             "id": "00009",
-            "question": "What is carbonization (aka distillation)?",
-            "answer": "A process that occurs in certain soft tissues that are composed chiefly of compounds of carbon, hydrogen, and oxygen (e.g. cellulose) where once the organism has been buried and in the absence of oxygen, carbon dioxide and water are liberated until only free carbon remains, which forms a black film in the rock outlining the original organism.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "question": "What is carbonization?",
+            "answer": "A process of fossilization wherein the original organic material of an organism has been reduced to a film of carbon compounds.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -194,13 +213,15 @@
         {
             "id": "00010",
             "question": "What is a fossil mould?",
-            "answer": "When the original fossil is dissolved away leaving a mould of its outline.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "answer": "An impression made in surrounding earth or rock material by an exterior or interior of a fossil shell or other organic structure.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -215,13 +236,15 @@
         {
             "id": "00011",
             "question": "What is a fossil cast?",
-            "answer": "What is formed from the deposition of mineral matter from underground solutions in a fossil mould.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "answer": "Secondary rock or mineral material that fills a natural mold; specif. a replica or reproduction of the external details (size, shape, surface features) of a fossil shell, skeleton, or other organic structure, produced by the filling of acavity formed by the decay or dissolution of some or all of the original hard parts of which the organism consisted.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "cast [paleont]",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -237,12 +260,14 @@
             "id": "00012",
             "question": "What is a fossil imprint?",
             "answer": "Fossil moulds of thin organisms.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -257,13 +282,15 @@
         {
             "id": "00013",
             "question": "What are trace fossils?",
-            "answer": "Fossilized remnants of the evidence of animal life.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "answer": "A sedimentary structure consisting of a fossilized track, trail, burrow, tube, boring, or tunnel resulting from the life activities (other than growth) of an animal.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "fossil",
+            "notes": "trace fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -279,12 +306,14 @@
             "id": "00014",
             "question": "What are ideal conditions for the formation of fossils?",
             "answer": "In areas of rapid sedimentation especially those parts of the seabed that lie below the zone of wave disturbance.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -300,12 +329,14 @@
             "id": "00015",
             "question": "What is a coprolite?",
             "answer": "A fossilized dropping or excreta.",
-            "source_abbr": "2020_ODOGAES_Oxford",
+            "source_abbr": "OQR_ODOGAES_2020",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "coprolite",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -320,13 +351,15 @@
         {
             "id": "00016",
             "question": "What may coprolites reveal?",
-            "answer": "Coprolites may have distinctive shapes or markings which can provide information regarding the structure of the animal's alimentary canal, and analysis of the contents may also reveal its diet.",
-            "source_abbr": "2020_ODOGAES_Oxford",
+            "answer": "Coprolites may have distinctive shapes or markings which can provide information regarding the structure of the animal's alimentary canal and its diet.",
+            "source_abbr": "OQR_ODOGAES_2020",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "coprolite",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -341,13 +374,15 @@
         {
             "id": "00017",
             "question": "What is a mineral?",
-            "answer": "A naturally occurring substance that has a characteristic chemical composition and, in general, a crystalline structure.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "answer": "A naturally occurring inorganic element or compound having a periodically repeating arrangement of atoms and characteristic chemical composition, resulting in distinctive physical properties.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "mineral",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -363,12 +398,14 @@
             "id": "00018",
             "question": "What is the term mineral often falsely applied to?",
             "answer": "To organic substances that are obtained by mining (e.g., coal, petroleum, and natural gas) but strictly speaking these are not minerals, being complex mixtures without definite chemical structures.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "mineral",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -384,12 +421,14 @@
             "id": "00019",
             "question": "How can minerals be identified?",
             "answer": "By the properties of their crystal system, hardness, relative density, lustre, cleavage, and fracture.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "mineral",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -404,13 +443,15 @@
         {
             "id": "00020",
             "question": "What is a chemical fossil?",
-            "answer": "Any of the various organic compounds found in ancient geological strata that appear to be biological in origin and are assumed to indicate that life existed when the rocks were formed.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "answer": "A chemical trace of an organism that has been mostly destroyed by diagenetic processes.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "chemical fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -424,14 +465,16 @@
         },
         {
             "id": "00021",
-            "question": "What are index fossils (aka zone fossils)?",
-            "answer": "Fossils whose presence is chosen to denote the zone in which it occurs and after the zone is named.",
-            "source_abbr": "2020_ODOGAES_Oxford",
+            "question": "What are index fossils?",
+            "answer": "Fossils species of a plant or animal that is characteristic of a particular set of environmental conditions and therefore whose presence in a particular area indicates the existence of those conditions in that area. ",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
-            "notes": "index fossil",
+            "notes": "index species",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -447,12 +490,14 @@
             "id": "00022",
             "question": "Why are some fossils selected as index fossils?",
             "answer": "For their distinctiveness and or abundance.",
-            "source_abbr": "2020_ODOGAES_Oxford",
+            "source_abbr": "OQR_ODOGAES_2020",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "index fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -468,12 +513,14 @@
             "id": "00023",
             "question": "What properties should an index fossil have to be useful?",
             "answer": "To be of use in biostratigraphy, an index fossil should ideally have a narrow range (i.e. to have undergone rapid evolutionary change) but have had a wide geographical distribution.",
-            "source_abbr": "2020_ODOGAES_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "index fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -489,12 +536,14 @@
             "id": "00024",
             "question": "What are four examples of index fossils?",
             "answer": "Cambrian trilobites, Jurassic ammonites, Ordovician and Silurian graptolites, and Cretaceous and Cenozoic foraminifera.",
-            "source_abbr": "2020_ODOGAES_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "index fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -509,13 +558,15 @@
         {
             "id": "00025",
             "question": "What are microfossils?",
-            "answer": "A fossil that is so small it can only be studied under a microscope.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "answer": "A fossil too small to be studied without the aid of a microscope. It may be the remains of a microscopic organism or a part of a larger organism.",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "microfossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -531,12 +582,14 @@
             "id": "00026",
             "question": "What are some examples of microfossils?",
             "answer": "Fossilized bacteria, diatoms, and protists and parts of organisms, such as plant pollen and skeletal fragments",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "AGI_GOGED5_2011",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "microfossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -552,12 +605,14 @@
             "id": "00027",
             "question": "Why are microfossils valuable?",
             "answer": "For the correlation of rocks where only small samples of rocks are available.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "microfossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -573,12 +628,14 @@
             "id": "00028",
             "question": "What are some aspects of extinct organisms covered under paleontology?",
             "answer": "Their structure, environment, evolution, and distribution, as revealed by their fossil remains.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "paleontology",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -594,12 +651,14 @@
             "id": "00029",
             "question": "What are some examples of trace fossils?",
             "answer": "Tracks, trails, footprints, burrows, and coprolites.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -615,12 +674,14 @@
             "id": "00030",
             "question": "What are some examples of hard parts of organisms that can become fossilized?",
             "answer": "Bones, teeth, shells, and wood.",
-            "source_abbr": "2017_ODOS_Oxford",
+            "source_abbr": "OQR_ODOSED7_2017",
             "source_original": "",
+            "source_original_term": "",
             "source_year_published": "",
             "source_first_author_last_name": "",
             "source_bibtex_name": "",
             "notes": "fossil",
+            "page_number": "",
             "tags": [
                 ""
             ],
@@ -638,12 +699,14 @@
             "answer": "1789 to 1797",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -663,12 +726,14 @@
             "answer": "George Washington",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -688,12 +753,14 @@
             "answer": "1797 to 1801",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -713,12 +780,14 @@
             "answer": "John Adams",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -738,12 +807,14 @@
             "answer": "1801 to 1809",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -763,12 +834,14 @@
             "answer": "Thomas Jefferson",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -788,12 +861,14 @@
             "answer": "1809 to 1817",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -813,12 +888,14 @@
             "answer": "James Madison",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -838,12 +915,14 @@
             "answer": "1817 to 1825",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -863,12 +942,14 @@
             "answer": "James Monroe",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -888,12 +969,14 @@
             "answer": "1825 to 1829",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -913,12 +996,14 @@
             "answer": "John Quincy Adams",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -938,12 +1023,14 @@
             "answer": "1829 to 1837",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -963,12 +1050,14 @@
             "answer": "Andrew Jackson",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -988,12 +1077,14 @@
             "answer": "1837 to 1841",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1013,12 +1104,14 @@
             "answer": "Martin Van Buren",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1038,12 +1131,14 @@
             "answer": "1841 to 1841",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1063,12 +1158,14 @@
             "answer": "William Henry Harrison",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1088,12 +1185,14 @@
             "answer": "1841 to 1845",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1113,12 +1212,14 @@
             "answer": "John Tyler",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1138,12 +1239,14 @@
             "answer": "1845 to 1849",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1163,12 +1266,14 @@
             "answer": "James K Polk",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1188,12 +1293,14 @@
             "answer": "1849 to 1850",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1213,12 +1320,14 @@
             "answer": "Zachary Taylor",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1238,12 +1347,14 @@
             "answer": "1850 to 1853",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1263,12 +1374,14 @@
             "answer": "Millard Fillmore",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1288,12 +1401,14 @@
             "answer": "1853 to 1857",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1313,12 +1428,14 @@
             "answer": "Franklin Pierce",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1338,12 +1455,14 @@
             "answer": "1857 to 1861",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1363,12 +1482,14 @@
             "answer": "James Buchanan",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1388,12 +1509,14 @@
             "answer": "1861 to 1865",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1413,12 +1536,14 @@
             "answer": "Abraham Lincoln",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1438,12 +1563,14 @@
             "answer": "1865 to 1869",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1463,12 +1590,14 @@
             "answer": "Andrew Johnson",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1488,12 +1617,14 @@
             "answer": "1869 to 1877",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1513,12 +1644,14 @@
             "answer": "Ulysses S Grant",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1538,12 +1671,14 @@
             "answer": "1877 to 1881",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1563,12 +1698,14 @@
             "answer": "Rutherford B Hayes",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1588,12 +1725,14 @@
             "answer": "1881 to 1881",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1613,12 +1752,14 @@
             "answer": "James A Garfield",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1638,12 +1779,14 @@
             "answer": "1881 to 1885",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1663,12 +1806,14 @@
             "answer": "Chester A Arthur",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1688,12 +1833,14 @@
             "answer": "1885 to 1889 and 1893 to 1897",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1713,12 +1860,14 @@
             "answer": "Grover Cleveland",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1738,12 +1887,14 @@
             "answer": "1889 to 1893",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1763,12 +1914,14 @@
             "answer": "Benjamin Harrison",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1788,12 +1941,14 @@
             "answer": "1897 to 1901",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1813,12 +1968,14 @@
             "answer": "William McKinley",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1838,12 +1995,14 @@
             "answer": "1901 to 1909",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1863,12 +2022,14 @@
             "answer": "Theodore Roosevelt",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1888,12 +2049,14 @@
             "answer": "1909 to 1913",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1913,12 +2076,14 @@
             "answer": "William Howard Taft",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1938,12 +2103,14 @@
             "answer": "1913 to 1921",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1963,12 +2130,14 @@
             "answer": "Woodrow Wilson",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -1988,12 +2157,14 @@
             "answer": "1921 to 1923",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2013,12 +2184,14 @@
             "answer": "Warren G Harding",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2038,12 +2211,14 @@
             "answer": "1923 to 1929",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2063,12 +2238,14 @@
             "answer": "Calvin Coolidge",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2088,12 +2265,14 @@
             "answer": "1929 to 1933",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2113,12 +2292,14 @@
             "answer": "Herbert Hoover",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2138,12 +2319,14 @@
             "answer": "1933 to 1945",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2163,12 +2346,14 @@
             "answer": "Franklin D Roosevelt",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2188,12 +2373,14 @@
             "answer": "1945 to 1953",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2213,12 +2400,14 @@
             "answer": "Harry S Truman",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2238,12 +2427,14 @@
             "answer": "1953 to 1961",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2263,12 +2454,14 @@
             "answer": "Dwight D Eisenhower",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2288,12 +2481,14 @@
             "answer": "1961 to 1963",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2313,12 +2508,14 @@
             "answer": "John F Kennedy",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2338,12 +2535,14 @@
             "answer": "1963 to 1969",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2363,12 +2562,14 @@
             "answer": "Lyndon B Johnson",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2388,12 +2589,14 @@
             "answer": "1969 to 1974",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2413,12 +2616,14 @@
             "answer": "Richard Nixon",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2438,12 +2643,14 @@
             "answer": "1974 to 1977",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2463,12 +2670,14 @@
             "answer": "Gerald Ford",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2488,12 +2697,14 @@
             "answer": "1977 to 1981",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2513,12 +2724,14 @@
             "answer": "Jimmy Carter",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2538,12 +2751,14 @@
             "answer": "1981 to 1989",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2563,12 +2778,14 @@
             "answer": "Ronald Reagan",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2588,12 +2805,14 @@
             "answer": "1989 to 1993",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2613,12 +2832,14 @@
             "answer": "George HW Bush",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2638,12 +2859,14 @@
             "answer": "1993 to 2001",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2663,12 +2886,14 @@
             "answer": "Bill Clinton",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2688,12 +2913,14 @@
             "answer": "2001 to 2009",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2713,12 +2940,14 @@
             "answer": "George W Bush",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2738,12 +2967,14 @@
             "answer": "2009 to 2017",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2763,12 +2994,14 @@
             "answer": "Barack Obama",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2788,12 +3021,14 @@
             "answer": "2017 to 2021 and 2025 to 2029",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2813,12 +3048,14 @@
             "answer": "Donald Trump",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2838,12 +3075,14 @@
             "answer": "2021 to 2025",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2863,12 +3102,14 @@
             "answer": "Joe Biden",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
@@ -2888,16 +3129,41 @@
             "answer": "45 men have served 47 presidencies",
             "source_abbr": "White_AAHBOUPDTILWSH_2021",
             "source_original": "All About History Book of US PRESIDENTS Discover the iconic leaders who shaped history",
+            "source_original_term": "",
             "source_year_published": "2021",
             "source_first_author_last_name": "White",
             "source_bibtex_name": "",
             "notes": [
                 ""
             ],
+            "page_number": "",
             "tags": [
                 "history",
                 "United States",
                 "politics"
+            ],
+            "include": true,
+            "links": [
+                ""
+            ],
+            "image_name": "",
+            "image_mode": "",
+            "cloze": false
+        },
+        {
+            "id": "00122",
+            "question": "What are non-growth activities that may result in trace fossils?",
+            "answer": "Marks made by moving, creeping, feeding, hiding, browsing, running, or resting on or in soft sediment",
+            "source_abbr": "AGI_GOGED5_2011",
+            "source_original": "",
+            "source_original_term": "",
+            "source_year_published": "",
+            "source_first_author_last_name": "",
+            "source_bibtex_name": "",
+            "notes": "trace fossil",
+            "page_number": "",
+            "tags": [
+                ""
             ],
             "include": true,
             "links": [
