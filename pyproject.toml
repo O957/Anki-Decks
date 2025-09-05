@@ -3,21 +3,21 @@ name = "anki-decks"
 version = "0.0.1"
 description = "The author's personal Anki workflow, making use of genanki."
 authors = [
-  {name = "AFg6K7h4fhy2", email = "127630341+AFg6K7h4fhy2@users.noreply.github.com"},
+  {name = "O957", email = "127630341+O957@users.noreply.github.com"},
 ]
 license = "Apache-2.0"
 readme = "README.md"
 requires-python = ">=3.13"
-repository = "https://github.com/AFg6K7h4fhy2/Anki-Decks"
+repository = "https://github.com/O957/Anki-Decks"
 keywords = ["anki", "spaced-repetition", "human-memory", "personal"]
 dependencies = [
     "genanki>=0.13.1",
 ]
 
 [project.urls]
-"Repository" = "https://github.com/AFg6K7h4fhy2/Anki-Decks"
-"Repository Issues" = "https://github.com/AFg6K7h4fhy2/Anki-Decks/issues"
-"Author Homepage" = "https://github.com/AFg6K7h4fhy2"
+"Repository" = "https://github.com/O957/Anki-Decks"
+"Repository Issues" = "https://github.com/O957/Anki-Decks/issues"
+"Author Homepage" = "https://github.com/O957"
 
 [project.optional-dependencies]
 test = [
